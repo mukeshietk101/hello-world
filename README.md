@@ -1,2 +1,3 @@
 # hello-world
-hellp world for git-hub project
+hello world for git-hub project.
+This is the first test branch created for git-hub sample project
